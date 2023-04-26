@@ -6,3 +6,6 @@ App thông tin INCO SG
 
 GasMonitorSeveninput.bin 2.2.7.5
 App thông tin daukhimiennam
+
+V2.2.7.6:
+Xử lý lại hiển thị LCD chậm khi tắt/mở công tắc còi, val gas
